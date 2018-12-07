@@ -1,0 +1,37 @@
+{
+  "name": "react-native-echarts-cus",
+  "version": "1.0.0",
+  "description": "echarts4.2的图表,实现echarts的各种图表, 本组件使用百度的echarts4.2 使用方法遵循native-echarts",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gegeyang0124/react-native-echarts-cus.git"
+  },
+  "keywords": [
+    "react-native",
+    "native-echarts",
+    "react-native-echarts",
+    "react-native-echart",
+    "echart",
+    "echarts",
+    "chart",
+    "charts",
+    "绘制",
+    "图表",
+    "绘图"
+  ],
+  "author": {
+    "name": "周阳",
+    "email": "584450903@qq.com",
+    "url": "https://github.com/gegeyang0124",
+    "blog":"http://blog.sina.com.cn/s/articlelist_6078695441_0_1.html"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gegeyang0124/react-native-echarts-cus/issues"
+  },
+  "homepage": "https://github.com/gegeyang0124/react-native-echarts-cus#readme"
+}
